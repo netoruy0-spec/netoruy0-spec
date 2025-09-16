@@ -1,27 +1,37 @@
-<h1>
-    <a href="https://www.dio.me/">
-     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> Profiles README DIO</span>
-</h1>
 
-## Sobre o Projeto
-Página desenvolvida para fins didáticos para o curso **Contribuindo em um Projeto Open Source no GitHub** da [Digital Innovation One](https://www.dio.me/). Lembre-se de que Markdown é mais voltado para a documentação e apresentação de texto formatado, enquanto a remoção de bugs normalmente envolve a compreensão detalhada do código e o uso de ferramentas de desenvolvimento adequadas à linguagem de programação específica.
+# Francisco Neto
 
-[![Preview](https://img.shields.io/badge/Preview-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://digitalinnovationone.github.io/dio-lab-open-source/)
+## Sobre mim
 
-```
-docs/
-├── assets/
-│   ├── css/
-│   │   └── styles.css
-│   └── js/
-│       └── scripts.js
-├── favicon.ico
-├── index.html
-└── README.md
-```
+> _Tenho 24 anos e estou começando aprender_
+> _programação e também dando inicio aos estudos_
+> _sobre WEB para desenvolvimento full stack, onde_
+> _quero fazer minha base e aprimorar minhas_
+> _habilidades cada vez mais. Minha_
+> _linguagem_
+> _favorita é o Python, onde tive meu primeiro_
+> _contato com a programação, com isso deu maior_
+> _vontade em aprender back-end. Sobre meus hobbies_
+> _gosto bastante de passar o tempo jogando jogos de_
+> _mundo aberto e FPS, também gosto de ir a praia_
+> _refrescar a mente._
 
-## Tecnologias
-![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
-![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
+### Aprendendo
+
+[![Github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=)](https://github.com)
+
+[![Git](https://img.shields.io/badge/git-000?style=for-the-badge&logo=git&logoColor=)](https://git-scm.com)
+
+[![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=)](https://www.python.org)
+
+### Sistema
+
+[![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=)](https://www.microsoft.com/pt-br)
+
+### Sociais
+
+[![instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=blue)](https://www.instagram.com/netorui__x)
+
+### Minhas Contribuições
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=netoruy0-spec&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
